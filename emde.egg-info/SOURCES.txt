@@ -1,0 +1,6 @@
+README.md
+setup.py
+emde.egg-info/PKG-INFO
+emde.egg-info/SOURCES.txt
+emde.egg-info/dependency_links.txt
+emde.egg-info/top_level.txt
